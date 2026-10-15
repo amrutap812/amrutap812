@@ -1,16 +1,27 @@
-## Hi there 👋
+markdown
 
-<!--
-**amrutap812/amrutap812** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Amruta 👋
 
-Here are some ideas to get you started:
+### Ruby on Rails Developer | Backend Engineer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a software developer with **5 years and 3 months of experience** in Ruby on Rails, backend development, REST APIs, and databases.
+
+I'm passionate about building reliable applications, solving technical problems, and continuously expanding my skills.
+
+### 🌱 Currently Learning
+- Artificial Intelligence and Machine Learning
+- Generative AI and AI integration in backend applications
+- Open-source development and collaboration
+
+### 💻 Technical Skills
+- **Backend:** Ruby, Ruby on Rails, REST APIs
+- **Databases:** pstgresql, MySQL 
+- **Tools:** Git, GitHub,jira, Jenkins 
+### 🎯 Goals
+- Explore AI/ML and emerging technologies
+- Build practical projects that solve real-world problems
+- Learn how to contribute to open-source communities
+- Collaborate with developers and continue growing as an engineer
+
+### 🤝 Let's Connect
+- **LinkedIn:** [ https://www.linkedin.com/in/amruta-patil-454371193?utm_source=share_via&utm_content=profile&utm_medium=member_ios ]
